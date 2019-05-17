@@ -8,3 +8,4 @@ node{
     stage('Print'){
         sh 'cat NewFile'
     }
+    }
